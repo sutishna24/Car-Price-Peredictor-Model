@@ -14,11 +14,15 @@ This project demonstrates a complete machine learning deployment pipeline. It ut
 •	Feature Engineering: Performed cleaning, extracted brand/model, converted year and kms to numeric, and handled missing or inconsistent values.
 
 •	Machine Learning Pipeline: Incorporated one-hot encoding, regression modeling, and a streamlined workflow for price prediction.
-•	Interactive Analysis:
-Explored key patterns in price based on brand, age, mileage, and fuel type through visualizations.
+
+•	Interactive Analysis:Explored key patterns in price based on brand, age, mileage, and fuel type through visualizations.
 
 **Insights**
+
 •	Brand & Model Impact: Certain brands and models demonstrate higher price retention over time.
+
 •	Usage Patterns: Mileage and year strongly influence resale value, as shown in the analysis.
+
 •	Predictive Accuracy: Achieved high r² score (0.84), validating the effectiveness of engineered features.
+
 •	Data Challenges: Addressed issues with missing prices and removed major outlier records for model reliability.
